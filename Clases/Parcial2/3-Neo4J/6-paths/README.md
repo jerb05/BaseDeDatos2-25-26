@@ -1,12 +1,14 @@
 # Contenido
 
 1. [Consultas complejas y paths.](1-introduccion.md)
-2. [Un mismo problema, múltiples modelos.](2-multiples-modelos.md)
-3. [Comparando los modelos con consultas.](3-comparando-modelos.md)
-4. [Encontrando el equilibrio.](4-equilibrio.md)
-5. [Partiendo de un modelo problemático.](5-modelo-problematico.md)
-6. [Probando lo que antes no se podía.](6-analisis.md)
-7. [Detectando inconsistencias.](7-inconsistencias.md)
-8. [Refactorización del grafo.](8-refactorizacion.md)
-9. [Ejercicios.](9-ejercicios.md)
+2. [Introduciendo paths.](2-paths.md)
+3. [Introduciendo variable de path.](3-longitud.md)
+4. [Problema típico: explosión combinatoria.](4-expansion.md)
+5. [Comparando estilos de escritura.](5-control.md)
+6. [Ejercicios.](6-ejercicios.md)
+7. [Cuando un path deja de ser solo un camino.](7-contenido.md)
+8. [Introduciendo filtrado por nodos intermedios.](8-filtrado.md)
+9. [Introduciendo paths válidos vs inválidos.](9-observacion.md)
+10. [Interpretando resultados.](10-resultados.md)
+11. [Ejercicios.](9-ejercicios.md)
 
