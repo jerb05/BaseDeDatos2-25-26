@@ -40,9 +40,7 @@
     - [x] [Integración y taller: mini buscador semántico](Parcial2/4-Vectoriales/5-taller)
   - [x] [Examen del Segundo Parcial](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenParcial2/README.md)
   - [x] Revisión del Examen del Segundo Parcial
-
-- [x] Examen Final
-
+- [x] [Examen Final](https://github.com/LorenzoPerezUnea/BaseDeDatos2-25-26/blob/main/evaluaciones/examenes/examenFinal/README.md)
 - [ ] Revisión del Examen Final
 
 Con todo esto, [a día de hoy deberíamos saber](aDiaDeHoy.md)...
